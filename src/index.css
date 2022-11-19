@@ -1,13 +1,26 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-image: url(../src/Assets/bg-tablet-pattern.svg);
+  background-repeat: no-repeat;
+  background-position: 70% -30%;
+  background-size: 700px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#difference{
+  background-image: url(../src/Assets/bg-tablet-pattern.svg);
+  background-repeat: no-repeat;
+  background-position: -20% -50%;
+  background-size: 500px;
+}
+
+.simply{
+  background-image: url(../src/Assets/bg-simplify-section-mobile.svg);
+  background-repeat: no-repeat;
+}
+
+input::placeholder{
+  font-size: 15px;
 }
