@@ -2,7 +2,7 @@
 
 ![WhatsApp Image 2022-11-23 at 12 42 31](https://user-images.githubusercontent.com/91586973/203515077-abe2910d-ef5b-449b-8614-e1c7a55aff45.jpeg)
 
-## Introction.
+## Introduction.
 They say that education without implementation is entertainment. After learning Tailwind CSS, I decided to put what have lerned into practice by building this small awesome project, just to make sure I wasnt entertaining myself learning Tailwind CSS. You can view the live demo of the project [here](https://my-tailwind-css-project.netlify.app/)
 
 ## Tailwind CSS.
