@@ -1,7 +1,7 @@
 # Tailwind CSS Practice Project.
 
 ## Introction.
-They say that education without implementation is entertainment. After learning Tailwind CSS, I decided to put what have lerned into practice by building this small awesome project, just to make sure I wasnt entertaining myself learning Tailwind CSS. You can view the live demo of the project [ here ]:( https://my-tailwind-css-project.netlify.app/ )
+They say that education without implementation is entertainment. After learning Tailwind CSS, I decided to put what have lerned into practice by building this small awesome project, just to make sure I wasnt entertaining myself learning Tailwind CSS. You can view the live demo of the project [here](https://tailwindcss.com/)
 
 ## Tailwind CSS.
 
