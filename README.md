@@ -1,9 +1,9 @@
-#Tailwind CSS practice project.
+# Tailwind CSS practice project.
 
-##Introction.
+## Introction.
 They say that education without implementation is entertainment. After learning Tailwind CSS, I decided to put what have lerned into practice by building this small awesome project, just to make sure I wasnt entertaining myself learning Tailwind CSS. You can view the live demo of the project [here]:(https://my-tailwind-css-project.netlify.app/)
 
-##Tailwind CSS.
+## Tailwind CSS.
 
 Tailwind CSS is one of the most used CSS framework. It makes it quicker to write and maintain code of your application. In this project. I decided to give it a try, and I cant deny the fact that have fallen in love with it. Its one of the easiest framework to learn. Tailwind CSS is a CSS liblary. So if you are planning to start learning Tailwind css, I would advice that you first have a strong understanding of Vanilla CSS. 
 
